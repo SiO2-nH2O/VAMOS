@@ -7,10 +7,10 @@ plugins {
 }
 
 android {
-    namespace = "com.example.mannardongi.android"
+    namespace = "com.side.vamos.android"
     compileSdk = 34
     defaultConfig {
-        applicationId = "com.example.mannardongi.android"
+        applicationId = "com.side.vamos.android"
         minSdk = 26
         targetSdk = 34
         versionCode = 1

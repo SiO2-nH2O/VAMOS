@@ -1,4 +1,4 @@
-package com.example.mannardongi
+package com.side.vamos
 
 class Greeting {
     private val platform: Platform = getPlatform()

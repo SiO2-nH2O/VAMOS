@@ -1,4 +1,4 @@
-package com.example.mannardongi.android
+package com.side.vamos.android
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.foundation.shape.RoundedCornerShape
