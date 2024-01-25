@@ -34,7 +34,7 @@ kotlin {
 }
 
 android {
-    namespace = "com.example.mannardongi"
+    namespace = "com.side.vamos"
     compileSdk = 34
     defaultConfig {
         minSdk = 26

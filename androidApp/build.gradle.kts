@@ -53,4 +53,8 @@ dependencies {
     implementation(platform("com.google.firebase:firebase-bom:32.7.1"))
     // When using the BoM, don't specify versions in Firebase dependencies
     implementation("com.google.firebase:firebase-analytics")
+
+    // Navigation
+    implementation(libs.androidx.navigation.compose)
+
 }
