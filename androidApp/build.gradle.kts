@@ -57,4 +57,7 @@ dependencies {
     // Navigation
     implementation(libs.androidx.navigation.compose)
 
+    // ViewModel
+    implementation (libs.androidx.lifecycle.viewmodel.ktx)
+    implementation (libs.androidx.lifecycle.livedata.ktx)
 }
