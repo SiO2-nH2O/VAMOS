@@ -14,6 +14,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Vamos"
+rootProject.name = "VAMOS"
 include(":androidApp")
 include(":shared")
